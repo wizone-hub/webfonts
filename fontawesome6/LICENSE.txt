@@ -1,0 +1,5 @@
+Font Awesome Free 6 (webfonts)
+License - https://fontawesome.com/license/free
+Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License
+Copyright 2024 Fonticons, Inc.
+(위 문구는 사용 중인 all.min.css / fontawesome.css 파일 머리말의 라이선스 표기를 그대로 옮긴 것)
