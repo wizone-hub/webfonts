@@ -5,9 +5,9 @@ jsDelivr를 통해 제공하며, 각 사이트는 서버에 있는 기존 폰트
 
 ## 사용 주소
 
-    https://cdn.jsdelivr.net/gh/wizone-hub/webfonts@1.2/{폴더}/{파일}
+    https://cdn.jsdelivr.net/gh/wizone-hub/webfonts@1.3/{폴더}/{파일}
 
-반드시 버전(@1.0, @1.1, @1.2)을 붙여서 사용합니다. 파일을 바꿀 때는 새 버전을 만들고 주소의 버전을 올립니다.
+반드시 버전(@1.0, @1.1, @1.2, @1.3)을 붙여서 사용합니다. 파일을 바꿀 때는 새 버전을 만들고 주소의 버전을 올립니다.
 
 ## 수록 폰트와 라이선스
 
@@ -23,6 +23,11 @@ jsDelivr를 통해 제공하며, 각 사이트는 서버에 있는 기존 폰트
 | pretendard | Pretendard (정적 woff2·woff, 가변, 가변 분할본) — 1.1부터 | SIL OFL 1.1 (OFL.txt) |
 | nanum-barun-gothic | 나눔바른고딕 Regular·Bold — 1.2부터 | 나눔글꼴 라이선스(SIL OFL 1.1) (OFL.txt) |
 | paperlogy | Paperlogy 300~900 — 1.2부터 | SIL OFL 1.1 (OFL.txt) |
+| nanum-square-neo | 나눔스퀘어 네오 5종 — 1.3부터 | 나눔글꼴(SIL OFL 1.1) (OFL.txt) |
+| nanum-etc | 나눔고딕 Regular·Bold, 나눔손글씨 펜 — 1.3부터 | 나눔글꼴(SIL OFL 1.1) (OFL.txt) |
+| notokr | NotoKR 경량판(Noto Sans KR 기반 추정) — 1.3부터 | SIL OFL 1.1 (OFL.txt) |
+| suit | SUIT Variable — 1.3부터 | SIL OFL 1.1 (OFL.txt) |
+| cafe24-more | 카페24 동동, 카페24 아네모네(파일명 Ohsquare) — 1.3부터 | 카페24 서체 OFL (LICENSE.txt) |
 | cafe24 | 카페24 샤이닝스타, 카페24 클래식타입 | OFL (LICENSE.txt) |
 
 모든 폰트는 원본 파일을 수정하지 않고 그대로 수록했습니다. 폰트 파일을 판매하지 않습니다.
